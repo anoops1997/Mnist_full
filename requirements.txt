@@ -4,3 +4,4 @@ keras
 pillow
 gradio
 streamlit
+sklearn
